@@ -3,7 +3,7 @@
 [**Project**](https://github.com/Markus-Pobitzer/RGBD-NeRF) | [**Report**](./Resources/RGBD_NeRF.pdf)
 
 This is the pyTorch code for the course project in [263-0600-00L  Research in Computer Science](https://www.vorlesungen.ethz.ch//Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=162285&semkez=2022W&ansicht=LEHRVERANSTALTUNGEN&lang=en)
-conducted at ETH Zürich and supervised by Dr. [Sergey Prokudin](https://scholar.google.de/citations?user=xSywCzAAAAAJ&hl=en). It extends  NeRF can be extended NeRF with synthetic depth information to reduce the needed number of input images.
+conducted at ETH Zürich and supervised by Dr. [Sergey Prokudin](https://scholar.google.de/citations?user=xSywCzAAAAAJ&hl=en). It extends NeRF with synthetic depth information to reduce the needed number of input images.
 
 
  [Markus Pobitzer](https://markus-pobitzer.github.io/markuspobitzer/)
