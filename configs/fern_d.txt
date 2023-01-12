@@ -1,0 +1,31 @@
+expname = DS-RGB-D-Fern
+basedir = ./logs
+datadir = ./data/nerf_llff_data/fern_depth
+dataset_type = llff
+
+factor = 8
+llffhold = 8
+
+numb_imgs_train = 2
+
+no_ndc = False
+
+
+N_rand = 1024
+N_samples = 64
+N_importance = 128
+
+use_depth = True
+depth_loss = True
+weighted_loss = False
+depth_lambda = 0.1
+sigma_loss = False
+sigma_lambda = 0.1
+raw_noise_std = 1e0
+
+i_testset = 50000
+i_video = 50000
+N_iters = 50000
+
+use_viewdirs = True
+raw_noise_std = 1e0
